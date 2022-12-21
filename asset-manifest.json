@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ThunderApp/static/css/main.bd0e5900.css",
+    "main.js": "/ThunderApp/static/js/main.54ae96cf.js",
+    "static/media/Group 29.png": "/ThunderApp/static/media/Group 29.c8c400d489eda5566b98.png",
+    "static/media/home3.jpg": "/ThunderApp/static/media/home3.849171e783ebc70850fb.jpg",
+    "static/media/logo3.png": "/ThunderApp/static/media/logo3.140026fb5e73b615ce33.png",
+    "static/media/logo2.png": "/ThunderApp/static/media/logo2.178899ae7b8f670e1fba.png",
+    "index.html": "/ThunderApp/index.html",
+    "main.bd0e5900.css.map": "/ThunderApp/static/css/main.bd0e5900.css.map",
+    "main.54ae96cf.js.map": "/ThunderApp/static/js/main.54ae96cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd0e5900.css",
+    "static/js/main.54ae96cf.js"
+  ]
+}
